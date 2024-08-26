@@ -1,3 +1,4 @@
 # Example-Repository
-Class Example
+Class Example,
+
 This is the Class Example for Software Engineering.
